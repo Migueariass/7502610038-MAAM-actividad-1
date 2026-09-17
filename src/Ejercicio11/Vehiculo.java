@@ -12,7 +12,7 @@ public class Vehiculo {
     public static void main(String[] args) {
         Vehiculo v = new Vehiculo();
         v.marca = "Toyota";
-        v.velocidadActual = 40;
+        v.velocidadActual = 60;
         v.acelerar();
     }
 }
