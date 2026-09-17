@@ -11,4 +11,12 @@ public class Libro {
         System.out.println("Autor: " + autor);
         System.out.println("Páginas: " + paginas);
     }
+
+    public static void main(String[] args) {
+        Libro libro = new Libro();
+        libro.titulo = "Cien Años de Soledad";
+        libro.autor = "Gabriel García Márquez";
+        libro.paginas = 471;
+        libro.mostrarResumen();
+    }
 }
