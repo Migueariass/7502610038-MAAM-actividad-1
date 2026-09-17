@@ -5,7 +5,7 @@ class Persona {
     int edad;
 }
 
-public class Empleado extends Persona {
+class Empleado extends Persona {
     double salario;
 
     void mostrarInfoEmpleado() {
