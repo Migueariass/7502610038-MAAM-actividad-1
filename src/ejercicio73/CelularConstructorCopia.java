@@ -1,6 +1,6 @@
 package ejercicio73;
 
-public class CelularConstructorCopia {
+class CelularConstructorCopia {
     String marca;
     int bateria;
 
