@@ -1,4 +1,4 @@
-package ejercicio04;
+package Ejercicio04;
 
 public class CuentaBancaria {
     String numero;
