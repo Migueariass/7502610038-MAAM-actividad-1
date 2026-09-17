@@ -8,7 +8,7 @@ class Vehiculo {
     }
 }
 
-public class Coche extends Vehiculo {
+class Coche extends Vehiculo {
     int numeroPuertas;
 
     public Coche(String marca, int numeroPuertas) {
