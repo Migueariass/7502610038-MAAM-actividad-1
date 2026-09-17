@@ -1,6 +1,6 @@
 package ejercicio30;
 
-class Perro {
+class Animal {
     void hacerSonido() {
         System.out.println("El animal hace un sonido genérico.");
     }
