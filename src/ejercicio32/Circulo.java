@@ -6,7 +6,7 @@ class Figura {
     }
 }
 
-class lass Circulo extends Figura {
+public class Circulo extends Figura  {
     @Override
     void dibujar() {
         System.out.println("Dibujando un círculo perfecto.");
