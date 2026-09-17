@@ -1,7 +1,5 @@
 package ejercicio38;
 
-package ejercicio38;
-
 public class Ventilador {
     String marca;
     int velocidad;
