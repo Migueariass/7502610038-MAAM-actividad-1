@@ -14,8 +14,8 @@ public class CuentaBancaria {
 
     public static void main(String[] args) {
         CuentaBancaria cuenta = new CuentaBancaria();
-        cuenta.numero = "123-456789-0";
-        cuenta.titular = "María López";
+        cuenta.numero = "750111726  ";
+        cuenta.titular = "Jhon Arrieta";
         cuenta.saldo = 500000.0;
         cuenta.mostrarInformacion();
     }
